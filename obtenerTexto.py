@@ -47,7 +47,7 @@ def get_transcription_text(transcribe, job_name):
             job = transcribe.get_transcription_job(TranscriptionJobName=job_name)
             status = job['TranscriptionJob']['TranscriptionJobStatus']
 
-def procesarTranscripcion(job_status,transcribe,bucket_name,file_name,job_name):
+def procesarTranscripcion(job_status,transcribe,job_name):
     '''Función que permite ejecutar las funciones necesarias para 
     generar la transcripción'''
     

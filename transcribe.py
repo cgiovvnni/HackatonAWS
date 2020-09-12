@@ -1,4 +1,4 @@
-import boto3,conect
+import boto3,conect 
 
 def datosTranscribe():
     '''Inicia los datos del transcribe, el objeto cliente para el

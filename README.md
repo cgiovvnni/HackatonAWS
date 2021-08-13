@@ -1,4 +1,5 @@
 # Equipo 37 - BusinessSoft
+Primer lugar en el Hackaton UNAM-AWS en la categoría Educación con el proyecto *Light Class*.
 
 <img src="Images/BussinessSoft-logo.jpg" width="256" height="256" align="right">
 
